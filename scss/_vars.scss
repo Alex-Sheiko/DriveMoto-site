@@ -1,0 +1,32 @@
+$blue: #1c62cd;
+$grey: #f0f0f4;
+
+@mixin B400 {
+   font-family: "Barlow-Regular", sans-serif;
+   font-weight: 400;
+}
+
+@mixin B700 {
+   font-family: "Barlow-Bold", sans-serif;
+   font-weight: 700;
+}
+
+@mixin SF400 {
+   font-family: "SFProDisplay-Regular", sans-serif;
+   font-weight: 400;
+}
+
+@mixin SF500 {
+   font-family: "SFProDisplay-Medium", sans-serif;
+   font-weight: 500;
+}
+
+@mixin SF600 {
+   font-family: "SFProDisplay-Semibold", sans-serif;
+   font-weight: 600;
+}
+
+@mixin SF700 {
+   font-family: "SFProDisplay-Bold", sans-serif;
+   font-weight: 700;
+}

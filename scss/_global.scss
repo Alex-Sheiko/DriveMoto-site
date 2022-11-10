@@ -1,0 +1,18 @@
+body {
+   color: #2f3035;
+   @include SF400;
+   font-size: 20px;
+   line-height: 24px;
+   overflow-x: hidden;
+   min-width: 320px;
+}
+
+.container {
+   max-width: 1200px;
+   margin: 0 auto;
+   padding: 0 15px;
+}
+
+.page-section {
+   margin-bottom: 80px;
+}
